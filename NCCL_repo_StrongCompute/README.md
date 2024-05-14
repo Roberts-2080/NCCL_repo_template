@@ -5,26 +5,9 @@
 
 | Name | Email |
 |------|-------|
-| Reeves Spivak     | rspi3338@uni.sydney.edu.au | 
 | Robert Ji         | yuji6835@uni.sydney.edu.au |
-| Alex Milne        | amil3234@uni.sydney.edu.au | 
-| Barrett Greaves   | bgre9982@uni.sydney.edu.au | 
 | Reynardo Tjhin    | rtjh9350@uni.sydney.edu.au | 
 | Adam Zhao         | azha6173@uni.sydney.edu.au |
-
-## Project Background
-
-Tens of billions of dollars is spent on deep learning hardware each year, however much of it is unnecessary as many algorithms can produce the same results much faster on lower spec hardware when optimized.
-
-## Project Description
-
-Our aim of the project:
-
-- Review existing practices
-- Profiling memory access (C/CUDA)
-- Implement and profile new methods of memory access. (C/CUDA)
-
-## Project Documentation: [Link](https://docs.google.com/document/d/1orEtajZJCvoooa7g1TOrYk64s5x_XDaHd9PcKQy3Psc/edit?usp=sharing)
 
 ## Description
 
@@ -92,4 +75,3 @@ Note: We use Tensorboard as our profiling tool and is not installed by Docker up
 - torchvision, version = 0.13.1
 - tensorboard, version = 2.9.1
 - torch-tb-profiler = 0.4.0
-# NCCL_repo_template
