@@ -1,5 +1,4 @@
-# COMP3888_M_15_04 
-# P31 - UG-USYD-02A: Improved AI/ML Communication - COMPSCI
+## Improved AI/ML Communication - COMPSCI
 
 ## Group Members' Details
 
