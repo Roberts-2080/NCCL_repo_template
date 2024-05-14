@@ -1,0 +1,6 @@
+nvitop # monitoring GPU usage
+wandb  # log training
+
+# Code Review mentioned to install
+# ipywidgets # and
+# torch_tb_profiler
